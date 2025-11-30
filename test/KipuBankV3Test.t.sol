@@ -27,7 +27,7 @@ contract KipuBankV3Test is Test {
      * @dev Deploys fresh instances of contracts and funds test users
      */
     function setUp() public {
-        vm.createSelectFork(vm.envString("RPC"));
+        vm.createSelectFork(vm.rpcUrl("sepolia"));
 
 
         user1 = makeAddr("user1");
