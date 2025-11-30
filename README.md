@@ -1,5 +1,5 @@
 # KipuBankV3 Smart Contract
-![Tests](https://github.com/jorgeSegovia/KipuBank/actions/workflows/tests.yml/badge.svg)
+[![Build status](https://github.com/jsegovia1984/KipuBankV3/actions/workflows/tests.yml/badge.svg)](https://github.com/jsegovia1984/KipuBankV3/actions/workflows/tests.yml)
 
 ## 1. Overview
 
